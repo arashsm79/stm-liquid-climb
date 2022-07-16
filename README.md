@@ -38,7 +38,9 @@ Every time a shift occurs the score increases based of the current difficulty. T
 
 After the game is over you are shown your username and your score. You have to press `3` on the keypad to go back to the main menu.
 
-![gameplay](/screenshots/gameplay.gif)
+**A video of the gameplay:**
+
+![gameplay](/screenshots/gameplay.mp4)
 
 
 # Required Hardware
