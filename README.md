@@ -1,5 +1,5 @@
 # STM Liquid Climb
-> A platformer game implemented in C using STM32 HAL library and drawn on character LCD
+> A platformer game implemented in C using STM32 HAL library. The game was designed and tested on an STM32F303 microcontroller using a character LCD.
 
 * [Introduction](#Introduction)
 * [Game Flow and Screenshots](#Game-Flow-and-Screenshots)
@@ -37,6 +37,8 @@ In the game, the player keeps jumping up and down on a platform. You can use the
 Every time a shift occurs the score increases based of the current difficulty. The difficulty is configured using the volume module and is displayed on one of the digits of the 7-segment. The other 3 digits of the 7-segment show the current score.
 
 After the game is over you are shown your username and your score. You have to press `3` on the keypad to go back to the main menu.
+
+![gameplay](/screenshots/gameplay.gif)
 
 
 # Required Hardware
