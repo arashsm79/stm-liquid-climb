@@ -40,7 +40,10 @@ After the game is over you are shown your username and your score. You have to p
 
 **A video of the gameplay:**
 
-![gameplay](/screenshots/gameplay.mp4)
+
+
+https://user-images.githubusercontent.com/57039957/179364803-35cadcbc-d214-46db-a8cf-0c519c3c43c3.mp4
+
 
 
 # Required Hardware
